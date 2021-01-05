@@ -1,0 +1,1040 @@
+h1, h2, h3, h4, h5{
+	
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.slidetextopt{
+	background-color: rgba(0, 0, 0, 0.36);
+	background-size: auto;
+	font-size: 1.25rem;
+    width: fit-content;
+    padding: 10px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.iconshapesfeat {
+	font-size: 35px
+}
+.feats p{
+	font-size: 15px;
+	line-height: 25px
+}
+
+.features{
+	background-color: #dddddd;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px
+
+}
+
+.h1h1h1{
+	font-weight: bold
+}
+.h1h1h1 span{
+	color: #E41B17
+}
+
+
+
+.about{
+	overflow: hidden
+}
+
+
+
+
+/* boot straaaaap  */
+
+body{
+	padding-top: 45px;
+	font-size: 16px;
+/*
+	overflow: hidden
+*/
+
+}
+
+
+#carouselExampleCaptions{
+	margin-bottom: 30px
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active
+{
+	background-color: #E41B17;
+	font-weight: 600
+	
+}
+
+
+.dropdown-menu{
+
+	background-color: #343a40;
+	color: #bbb;
+	align-items: center;
+	place-items: center;
+    text-align: inherit;
+}
+.dropdown-item{
+	color: #bbb;
+	padding: 7px 20px;
+	-webkit-transition:padding .5s ease;
+	-moz-transition:padding .5s ease;
+	-o-transition:padding .5s ease;
+	transition:padding .5s ease;
+
+}
+
+
+.dropdown-item:hover, .dropdown-item:focus{
+	color: #fff;
+    text-decoration: none;
+ 	background-color: #E41B17; 
+	
+	padding-left: 30px
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	
+	padding-right: 1.5rem;
+    padding-left: 1.5rem;
+	margin: 0px 10px; 
+	padding-top: 15px;
+    padding-bottom: 15px;
+	
+}
+.dropdown-divider{
+	height: 0;
+    margin: 0.3rem auto;
+    overflow: hidden;
+    border-top: .5px solid #e41b17;
+	opacity: .5;
+	width: 80%
+}
+.fixed-top{
+	
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+.navbar-brand{
+	
+	font-size: 25px;
+	font-weight: 800
+}
+.navbar-brand span{
+	
+	font-weight: 600;
+	color: #E41B17
+}
+
+
+.carousel-indicators .active {
+    opacity: 1;
+ 	background-color: #E41B17; 
+	height: 4px
+}
+
+.topphoto{
+	height: 400px;
+}
+
+/*                               */ 
+
+
+
+.testimonials{
+	padding-top: 50px;
+	padding-bottom: 50px
+	
+	
+}
+
+.testimonials h2{
+	font-weight: bold;
+	margin-bottom: 40px
+}
+
+.testimonials .lead{
+	line-height: 2em;
+	margin-bottom: 10px
+	
+}
+
+
+
+.carousel-caption
+{
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    top: 40%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+
+
+.fansname {
+	
+	font-size: 18px;
+	font-weight: bold;
+	color: #E41B17
+}
+
+
+.testimonials .carousel-inner {
+	
+	min-height: 160px;
+	
+} .carousel-indicators
+
+.ssssffff {
+	position: static;
+}
+
+#hhhhhhhhh{
+	position: static;
+	
+}
+
+
+
+.testimonials .carousel-indicators {
+  position: static;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 15;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: none;
+}
+
+
+.testimonials .carousel-indicators li{
+	height: 80px;
+	width: 80px;
+	opacity: .5;
+   
+	text-indent: 0;
+	border: solid 2px #fff;
+	margin: 5px;
+	overflow: hidden;
+
+	
+}
+.testimonials .carousel-indicators li.active{
+
+	opacity: 1;
+	background-color: transparent;
+
+	overflow: hidden;
+	height: 80px;
+	width: 80px;
+	margin: 5px;	
+
+	
+}
+
+
+.testimonials .carousel-indicators li.active img{
+	
+	border: solid 2px #E41B17;
+
+}
+
+
+
+
+
+.testimonials .carousel-indicators li img{
+	max-width: 100%;
+	border-radius: 50%;
+	max-height: 700px;
+	border: solid 2px #fff;
+
+	background-color: transparent;
+	-webkit-transition:all .8s ease;
+	-moz-transition:all .8s.8s.8s ease;
+	-o-transition:all .8s.8s ease;
+	transition:all .8s ease;
+
+		
+}
+
+.carousel-item img{
+	
+	max-height: 700px;
+}
+/*    بداية سكشن خطة الاسعار   */
+.prices{
+	
+	background-color: #eee;
+	padding-bottom: 40px;
+	padding-top: 40px
+	
+	
+}
+.prices h1 {
+	margin-bottom: 40px
+}
+
+.prices .price_box{
+	
+	background-color: #fff;
+	padding: 10px;
+	border: 1px solid #ddd;
+	margin-bottom: 15px
+	
+}
+.prices .price_box h3{
+	margin: 5px 0px 15px;
+}
+.prices .price_box:hover p
+{
+	border: 2px solid #ddd;
+
+	-webkit-transform: scale(1.1,1.1) rotate(360deg);
+	-moz-transform: scale(1.1,1.1) rotate(360deg);
+	-o-transform: scale(1.1,1.1) rotate(360deg);
+	transform: scale(1.1,1.1) rotate(360deg);
+	
+}
+
+
+.prices .price_box p{
+	font-size: 35px;
+	font-weight: bold;
+	color: #666;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-transition-duration: 0.7s;
+	-moz-transition-duration: 0.7s;
+	-o-transition-duration: 0.7s;
+	transition-duration: 0.7s;
+
+}
+
+.prices .price_box ul{
+	line-height: 250%;
+	font-size: 18px;
+
+}
+.prices .price_box a{
+	margin-bottom: 5px
+}
+
+
+
+/*    نهاية سكشن خطة الاسعار   */
+
+
+/*    بداية سكشن فريق العمل   */
+
+.ourteam{
+	
+	background: url("../img/wtbg.jpg") no-repeat center center fixed;
+	min-height: 600px;
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+
+.contentteam{
+	background: rgba(2,2,2,0.6);
+	color: #fff;
+	min-height: 600px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	
+	
+}
+
+.tmember{
+	
+	margin-bottom: 40px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*    نهاية سكشن فريق العمل   */
+
+
+/* بداية سكشن الاشتراك */
+
+.subscribe{
+	
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: #eee
+}
+
+
+.subscribe h1{
+	
+	color: #888;
+	letter-spacing: 2px;
+	margin-bottom: 20px;
+	
+	
+}
+
+.subscribe p{
+	
+	margin-bottom: 30px;
+	
+}
+
+
+.subscribe .form-control {
+	border-radius: 0;
+	margin-right: -5px;
+	width: 350px
+}
+
+.subscribe button{
+	
+	border-radius: 0;
+	margin-bottom: 9.5px;
+	
+}
+.subscribe .form-control-lg {
+	
+	border-radius: 0;
+	margin-right: -7px;
+	border: none;
+		width: 350px
+	
+}
+.subscribe .form-inline{
+	display: inline
+}
+
+
+
+
+/* نهاية سكشن الاشتراك */ 
+
+
+
+
+/* بداية سكشن الاحصائيات */ 
+
+
+.statssec{
+	background: url("../img/ccc.jpg") no-repeat center center fixed ;
+	min-height: 300px;
+	-webkit-background-size: cover;	
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.statssec .datab {
+	background-color: rgba(0, 0, 0, 0.47);
+	color: #b6b5b5;
+	min-height: 300px;
+	padding-top: 40px;
+	padding-bottom: 50px
+}
+
+.statssec .datacol
+{
+	
+	margin-bottom: 30px;
+	-webkit-transition:all 0.5s ease-in-out;
+	-moz-transition:all 0.5s ease-in-out;
+	-o-transition:all 0.5s ease-in-out;
+	transition:all 0.5s ease-in-out;
+	cursor: default
+}
+.statssec .datacol:hover{
+	color: #fff
+		
+}
+
+
+
+.statssec p {
+	
+	font-size: 60px;
+	font-weight: 700;
+	margin-bottom: 0px;
+	
+}
+
+
+.statssec span{
+	font-size: 18px;
+	
+}
+
+
+
+
+
+
+/* نهاية سكشن الاحصائيات */ 
+
+
+
+/* بداية سكشن المهارات */ 
+
+.skillsinfo{
+	padding-top: 40px;
+	padding-bottom: 60px
+}
+
+
+.progress {
+	
+	margin-bottom: 20px;
+	height: 30px
+}
+.progress .progress-bar{
+	font-size: 14px;
+	font-weight: 600;
+	text-align: left;
+	text-indent: 10px
+}
+
+.skillsinfo h2{
+	margin-bottom: 50px;
+	
+}
+.skillsinfo h3{
+	margin-top: -5px;
+	font-weight: 700
+}
+
+.skillsinfo p{
+	font-size: 16px
+}
+
+
+
+
+
+
+/* نهاية سكشن المهارات */ 
+
+
+
+
+/*start section contact us*/
+
+.bodyyy{
+	background: url("../img/phone.jpg") no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	min-height: 500px
+	
+}
+
+
+
+
+	.contact-us {
+		max-height: 100%;
+    height: 600px;
+    margin-top: 100px;
+	}
+
+
+
+.contact-us p{
+	
+	margin-bottom: 40px
+}
+.contact-us .fields{
+	background-color: rgba(67, 67, 67, 0.4);
+	min-height: 500px;
+	padding-bottom: 40px;
+	
+	padding-top: 40px;
+	color: #ebe6e6;
+	height: 100%;
+	
+}
+.form-row
+
+
+.form-row > .textp{
+	text-align: left
+}
+.form-row .textp textarea{
+	
+	height: 112px
+}
+
+
+.form-row .textp button{
+	margin-top: 16px
+}
+
+
+
+
+/*end section contact us*/
+
+.form-row > .col input{
+	width: 100%;
+	
+	
+}
+
+.form-row  .col input, .form-row .textp textarea{
+	
+	
+	background-color: rgba(128, 125, 125, 0.4);
+	
+	color: #fff;
+	border-color: rgba(93, 92, 92, 0.6);
+	/*border: none;*/
+}
+
+
+.messcon::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: #fff;
+	opacity: .6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Start Our client section*/
+.ourclient{
+	background-color: #ddd;
+	padding-top: 20px;
+	
+}
+
+
+
+
+
+
+.ourclient .list-unstyled li{
+	min-height: 75px;
+	max-width: 300px;
+	margin: 0px auto;
+
+
+}
+
+.ourclient img{
+	opacity: 0.5;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+	-webkit-transition:all 0.4s ease-in-out;
+	-moz-transition:all 0.4s ease-in-out;
+	-o-transition:all 0.4s ease-in-out;
+	transition:all 0.4s ease-in-out;
+		
+	
+}
+.ourclient img:hover{
+	opacity: 1
+}
+
+
+/*End Our client section*/
+
+/*Start footer*/
+.footer{
+	background-color: #333;
+	color: #aaa;
+	padding-top: 20px;
+
+}
+.footer h3{
+	color: #E41B17;
+	letter-spacing: 1px;
+	margin: 20px 0;
+}
+
+
+.footer .thcols{
+	overflow: hidden;
+
+}
+.footer .thcols li{
+	
+	width: 50%;
+	float: left;
+	padding: 5px 0;
+	cursor: pointer;
+	-webkit-transition:all 0.4s ease-in-out;
+	-moz-transition:all 0.4s ease-in-out;
+	-o-transition:all 0.4s ease-in-out;
+	transition:all 0.4s ease-in-out;
+}
+.footer .thcols li:hover{
+	color: #fff
+	
+}
+
+
+.footer .socialcols{
+	
+	overflow: hidden;
+
+}
+
+.footer .socialcols li{
+	
+	float: left;
+	margin-right: 3px;
+	padding-right: 10px;
+	cursor: pointer;
+	-webkit-transition:all 0.4s ease-in-out;
+	-moz-transition:all 0.4s ease-in-out;
+	-o-transition:all 0.4s ease-in-out;
+	transition:all 0.4s ease-in-out;
+	
+}
+
+.footer .socialcols li:hover{
+	color: #fff
+}
+
+.footer a{
+	color: #aaa
+}
+
+.footer a:hover{
+	color: #fff
+}
+
+.footer .media img{
+	opacity: 0.7
+}
+
+.footer .media img:hover{
+	opacity: 1
+}
+
+
+.footer .media{
+	color: #fff;
+	opacity: 0.7;
+	cursor: pointer;
+	margin-bottom: 5px
+	
+}
+
+
+.footer .media:hover{
+	opacity: 1
+}
+
+.footer .media-body h5{
+	
+	margin-bottom: 1px;
+
+}
+
+.footer .media-body p {
+	font-size: 14px;
+	
+}
+
+.tecphoto{
+	min-height:100px;
+	min-width: 150px;
+	height:100px;
+	width: 150px;
+	
+	
+}
+
+.footer .img-thumbnail{
+	
+	background: rgba(0, 0, 0, 0.4);
+	border: 1px solid #444;
+	margin-bottom: 5px;
+	
+}
+
+
+.footer .copyright{
+	background-color: #727171;
+	color: #fff;
+	padding: 15px 0;
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 20px;
+	
+}
+
+
+.footer .copyright span{
+	
+	color: #ba0421
+}
+/*.tecphoto:hover{
+	
+	-webkit-transform: scale(5.1,5.1) ;
+	-moz-transform: scale(5.1,5.1) ;
+	-o-transform: scale(5.1,5.1);
+	transform: scale(2.1,2.1) ;
+	
+}*/
+
+/*end footer*/
+
+
+table{
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+
+th{
+	background-color: #00a9b0;
+	color: #fff;
+	padding: 5px 0px;
+}
+
+
+.exporting{
+	width: 100px;
+    background-color: #fff0;
+    border-color: aqua;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Start loading screen*/
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+  background: #353535;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+  background: #E41B17;
+}
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+
+.overlay-screen{
+	background-color: #222;
+	color: #fff;
+	position:absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 99999;
+	display: grid;
+	place-items:center
+
+}
+.spinner {
+  width: 70px;
+  text-align: center;
+	top: 50%;
+	left: 50%
+}
+
+.spinner > div {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+
+  border-radius: 100%;
+  display: inline-block;
+  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.spinner .bounce1 {
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.spinner .bounce2 {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+@-webkit-keyframes sk-bouncedelay {
+  0%, 80%, 100% { -webkit-transform: scale(0) }
+  40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bouncedelay {
+  0%, 80%, 100% { 
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  } 40% { 
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+  }
+}
+	
+	
+	
+	
+	
+	
+	
+	
+/*end loading screen*/
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+  background: #353535;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+  background: #E41B17;
+}
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+
+
+
+
+.popup-con{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.popup{
+    width: 500px;
+
+    background-color: #fff;
+    position: relative;
+	padding: 20px;
+	display: none;
+	text-align: center;
+	border-radius: 15px;
+}
+
+
+.selected_pop{
+	display: block !important;
+}
+
+
+
+
+/*Start Media Query*/
+
+/*
+اولا طريقة الكتابة , مثلًا  
+
+@media (max-width: 786px) يعني من الرقم ده للاقل منه
+@media (min-width: 786px) يعني من الرقم ده للاعلي منه
+@media (min-width: 786px) and (max-width: 1280px) يعني من اول الرقم الاول لحد الرقم التاني 
+{
+
+h1{
+font-size: 10px
+}
+
+}
+
+*/
+
+
+
+
+/*End Media Query*/
